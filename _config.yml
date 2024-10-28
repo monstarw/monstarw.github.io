@@ -23,7 +23,8 @@ email: monstarw412@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   hi welcome to observe me
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://monstarw.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+domain: monstarw.github.io # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://monstarw.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: what
 github_username:  monstarw
 
